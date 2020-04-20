@@ -1,0 +1,35 @@
+/* ====================================================
+	Name : Muhammad Hamza Anees  
+	ID   : WM7685  
+==================================================== */
+
+#form_submission {
+    font-family: Gill Sans MT;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #6B5ACD;
+    border: 2px solid #9179D2;
+    border-collapse: collapse;
+}
+
+#heading1 {
+    color: #9179D2;
+    text-decoration: underline;
+}
+
+header {
+    text-align: center;
+}
+
+#heading2 {
+    color: #23820C;
+}
+
+#subheading2 {
+    color: #7A0CBD;
+}
+
+#confirmation {
+    margin-top: 100px;
+    text-align: center;
+}
